@@ -1,4 +1,3 @@
-# Use OpenJDK 11 as the base image
 FROM openjdk:11
 
 # Set the working directory in the container
